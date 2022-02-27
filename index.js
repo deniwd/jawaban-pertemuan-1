@@ -118,4 +118,3 @@ var acak = Math.floor(Math.random()*8+1);
 console.log(name+acak+status);
 
 
-
