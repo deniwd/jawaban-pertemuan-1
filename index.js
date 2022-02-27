@@ -75,8 +75,8 @@ console.log(luas_permukaan_tabung);
  * 1. Buat variable r => jari - jari
  * 2. Gunakan konstanta phi = Math.PI
  * 3. Buat variable volume
- * 5. Isi volume dengan rumus = 1 bagi 2 kali phi kali r kali r kali r
- * 6. Cetak volume
+ * 4. Isi volume dengan rumus = 1 bagi 2 kali phi kali r kali r kali r
+ * 5. Cetak volume
  *
  * PSEUDOCODE
  * -----------
